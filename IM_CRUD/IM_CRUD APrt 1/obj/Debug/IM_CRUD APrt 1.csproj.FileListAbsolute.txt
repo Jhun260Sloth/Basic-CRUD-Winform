@@ -1,0 +1,33 @@
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\bin\Debug\IM_CRUD APrt 1.exe.config
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\bin\Debug\ServiceD.mdf
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\bin\Debug\ServiceD_log.ldf
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\bin\Debug\IM_CRUD APrt 1.exe
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\bin\Debug\IM_CRUD APrt 1.pdb
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\obj\Debug\IM_CRUD_APrt_1.Form1.resources
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\obj\Debug\IM_CRUD_APrt_1.Properties.Resources.resources
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.exe
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD APrt 1\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.pdb
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\bin\Debug\IM_CRUD APrt 1.exe.config
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.exe
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.pdb
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\bin\Debug\ServiceD.mdf
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\bin\Debug\ServiceD_log.ldf
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\bin\Debug\IM_CRUD APrt 1.exe
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\bin\Debug\IM_CRUD APrt 1.pdb
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\obj\Debug\IM_CRUD_APrt_1.Form1.resources
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\obj\Debug\IM_CRUD_APrt_1.Properties.Resources.resources
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD PART 1 - Copy\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\bin\Debug\IM_CRUD APrt 1.exe.config
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.exe
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.pdb
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\bin\Debug\ServiceD.mdf
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\bin\Debug\ServiceD_log.ldf
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\bin\Debug\IM_CRUD APrt 1.exe
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\bin\Debug\IM_CRUD APrt 1.pdb
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\obj\Debug\IM_CRUD_APrt_1.Form1.resources
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\obj\Debug\IM_CRUD_APrt_1.Properties.Resources.resources
+C:\Users\ACER\Desktop\Documents\Visual Studio 2013\Projects\IM_CRUD\IM_CRUD APrt 1\obj\Debug\IM_CRUD APrt 1.csproj.GenerateResource.Cache
