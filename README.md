@@ -1,8 +1,8 @@
 # Basic-CRUD-Winform
 
-Insert
-Update
-Delete
+- Insert
+- Update
+- Delete
 
 Compute Total Price and Count Total Rows
 
